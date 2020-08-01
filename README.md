@@ -12,3 +12,13 @@ sharing anonymised data about people's movements and high
 resolution population density maps which help them forecast the
 spread of the virus
 - In the past, Google search data has been used to track infectious diseases
+
+# Finding Drugs
+
+- British start up Exscienta became the first company to put a AI designed drug
+molecule to human trials earlier this year
+- AI could be used in three ways in the current crisis, according to chief executive
+Prof Andrew Hopkins
+- To rapidly develop antibodies and vaccines for the COVID 19 virus
+- To scan through existing drugs to see if any could be repurposed
+- To design a drug to fight both the current and future COVID 19 outbreaks
